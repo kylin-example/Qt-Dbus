@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=com.ukui.test.qt.systemdbus
+Exec=/usr/bin/ukui-test-service
+User=root
